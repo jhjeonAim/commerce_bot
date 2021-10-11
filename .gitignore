@@ -1,0 +1,7 @@
+venv/
+.idea/
+/dist/ 
+/node_modules/
+*.pyc
+__pycache__/
+*.py[cod]
